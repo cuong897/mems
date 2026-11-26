@@ -1,0 +1,9 @@
+﻿form,method,stop_rule,runs_in_fit,valid_stable_runs,first_decade,last_decade,iterations_per_decade,theoretical_iterations_per_decade
+centered,newton,residual,8,6,3,10,1.3333333333333333,1.6609640474436813
+centered,newton,step,8,8,3,10,1.5952380952380953,1.6609640474436813
+centered,secant,residual,8,5,3,10,1.9166666666666667,2.392485983390833
+centered,secant,step,8,8,3,10,2.3214285714285716,2.392485983390833
+direct,newton,residual,8,6,3,10,1.3333333333333333,1.6609640474436813
+direct,newton,step,7,7,3,10,1.6844262295081969,1.6609640474436813
+direct,secant,residual,8,5,3,10,1.9166666666666667,2.392485983390833
+direct,secant,step,8,8,3,10,2.5,2.392485983390833
